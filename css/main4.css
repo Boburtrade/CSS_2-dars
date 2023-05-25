@@ -1,0 +1,35 @@
+body {
+    background-color: whitesmoke;
+}
+.block{
+    width: 1200px;
+    margin: 200px auto;
+
+}
+.bar{
+    border-radius: 10px;
+  /*  border: 1px solid black;*/
+    width: 30%;
+    text-align: center;
+    padding: 16px 24px;
+    background-color: white;
+    float: left;
+    box-sizing: border-box;
+    margin: 0px 20px;
+    height: 500px;
+}
+.b{
+    border: 1px solid deepskyblue;
+    color: deepskyblue;
+}
+.a{
+    border: 1px solid deepskyblue;
+    color: deepskyblue;
+}
+.r{
+    border: 1px solid deepskyblue;
+    color: deepskyblue;
+}
+h1 {
+    font-size: 60px;
+}

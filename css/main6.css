@@ -1,0 +1,85 @@
+body{
+    background-color: whitesmoke;
+}
+.box{
+    width: 600px;
+    height: 300px;
+    margin: 700px;
+    background-color: white;
+    padding: 30px 30px;
+    /*box-sizing: border-box;*/
+}
+.a{
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+
+}
+.b{
+    border: 5px Dashed black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.c{
+    border: 5px Dotted black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.d{
+    border: 5px Double black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+
+}
+.e{
+    border: 5px Inset black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.f{
+    border: 5px Outset black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.g{
+    border: 5px Groove black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+}
+.h{
+    border: 5px Ridge black ;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin: 20px;
+}
